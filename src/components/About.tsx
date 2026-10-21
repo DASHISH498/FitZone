@@ -7,7 +7,7 @@ function About() {
         {/* Left Image */}
         <div className="relative">
           <img
-            src="/images/about-gym.jpg"
+            src="./"
             alt="Fitness training at FitZone gym"
             className="h-[350px] w-full rounded-2xl object-cover sm:h-[450px] lg:h-[490px]"
           />
